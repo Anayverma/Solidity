@@ -39,8 +39,8 @@ module.exports = {
     hardhat: {
     },
     sepolia: {
-      url: "https://sepolia.infura.io/v3/92b597c0cdf449c3b5599e09c890ac5e",
-      accounts: ["86406497dd7679907700ff5ca2565c2a8e24d214d79597fd5eff42f5e0675b0c"]
+      url: "",
+      accounts: [""]
     }
   },
   solidity: {
